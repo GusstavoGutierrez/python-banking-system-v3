@@ -1,4 +1,4 @@
-# Sistema Bancário - OOP e Conceitos
+# Sistema Bancário - OOP e conceitos
 
 Este projeto é a terceira versão do desafio "Sistema Bancário" da **Digital Innovation One (DIO)**. Nesta etapa, o sistema foi totalmente refatorado para utilizar os principais conceitos de orientação a objetos (OOP) em Python, tornando o código mais organizado, escalável e próximo de aplicações reais.
 
